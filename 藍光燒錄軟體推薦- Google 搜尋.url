@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.google.com.tw/?gws_rd=cr&ei=bsfsUv6SDoLvkQXdhIGoBw
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.google.com.tw/?gws_rd=cr&ei=bsfsUv6SDoLvkQXdhIGoBw#q=%E8%97%8D%E5%85%89%E7%87%92%E9%8C%84%E8%BB%9F%E9%AB%94%E6%8E%A8%E8%96%A6
+IDList=
+IconFile=https://www.google.com.tw/favicon.ico
+IconIndex=1
